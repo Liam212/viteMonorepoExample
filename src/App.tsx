@@ -1,10 +1,10 @@
 import React from 'react';
-import {View} from 'react-native';
+import {View, Text} from 'react-native';
 
 function App() {
   return (
     <View>
-      {/* <Text>hello world</Text> */}
+      <Text>hello world</Text>
       <View
         style={{
           width: 100,
